@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 "README"
 ---
@@ -71,3 +72,6 @@ Writing new data to a file
 ```r
 write.table(newDataSet, file = "finalData.txt", row.name = FALSE)
 ```
+=======
+# GettingAndCleaningDataProject
+>>>>>>> edb2d734d4b1d3f6f3562d137f6eb6e6f5e50caa
